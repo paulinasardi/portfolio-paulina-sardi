@@ -3,7 +3,6 @@
 **GIS Analyst · Remote Sensing Technician · Drone Mapping & Photogrammetry**  
 📍 Argentina & Uruguay 
 
----
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paulinasardi-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/paulinasardi)
 [![Email](https://img.shields.io/badge/Email-paulinasardi@gmail.com-D14836?style=flat&logo=gmail)](mailto:paulinasardi@gmail.com)
